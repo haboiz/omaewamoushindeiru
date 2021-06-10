@@ -31,3 +31,24 @@ $ npx create-react-app abib-app
 
 - $ git config --global user.email "oizamsihabeeb@gmail.com"
 - $ git config --global user.name "Oizamsi Siaka"
+
+https://github.com/haboiz/abib-app.git
+####
+<!-- rerun  -->
+- $ git init -b main
+- $ git add .
+- $ git remote add origin https://github.com/haboiz/omaewamoushindeiru.git
+
+- $ git remote -v
+- git push origin main
+
+
+debug rename change commit message
+- $ git commit -m "rename master"
+
+- $ git init -b main
+- $ git init -b main
+- $ git init -b main
+- $ git init -b main
+- $ git init -b main
+- $ git init -b mai
